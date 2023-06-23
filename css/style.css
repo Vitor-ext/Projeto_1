@@ -1,0 +1,25 @@
+body {
+    height: 95vh;
+    width: 100vw;
+    background-image: url("../img/bg.gif");
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+img {
+    width: 400px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+p{
+    color: #ffffff;
+    font-size: 20px;
+}
